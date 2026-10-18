@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "skills": {
+    "tailwindcss-animations": {
+      "source": "JosiahSiegel/claude-plugin-marketplace",
+      "sourceType": "github",
+      "skillPath": "plugins/tailwindcss-master/skills/tailwindcss-animations/SKILL.md",
+      "computedHash": "eff5b75d37872c9e20001ec9c168688f88f8faac969af4df4e250fb7c8a71628"
+    }
+  }
+}
